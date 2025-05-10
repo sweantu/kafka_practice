@@ -1,0 +1,9 @@
+kafka-python==1.4.6
+confluent_kafka==2.10.0
+requests
+avro
+faust
+fastavro
+httpx
+cachetools
+authlib
